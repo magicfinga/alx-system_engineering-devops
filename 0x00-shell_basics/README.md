@@ -1,0 +1,1 @@
+scipts that print pwd
